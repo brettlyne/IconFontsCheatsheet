@@ -1,0 +1,26 @@
+
+- change url based on fonts selected to pre-load certain fonts
+- if only one font is selected, also change page title
+- foundation base file
+- cool interaction / animation for when a symbol is clicked / hovered / etc.
+- downloads > git
+- all fonts rendering correctly on a webpage
+- group copy all by library if multiple libraries in set
+
+- create spreadsheets for selected fonts to be imported as CSV or JSON
+
+- finish wireframes / design
+  - help: explain symbol fonts and how to use the site
+  	- could be initially incorporated into top area
+  - top area for copied symbols + CLEAR | COPY ALL
+  - search states / custom text field
+  - copy as HTML 
+
+- create symbol object
+  - key code, ID#, name, library, tags (aliases), category (1of8)
+
+====================================================
+- find notebook with exisiting notes
+
+
+
